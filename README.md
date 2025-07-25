@@ -69,3 +69,6 @@ The project includes a responsive web interface using **Streamlit**, making it i
 - ✅ Hybrid models (collaborative + content-based)  
 - ✅ More polished UI (web/mobile)  
 - ✅ Deep learning integration for better accuracy  
+
+## 🔗 Deployed Link:
+[Click to use the app](https://nehal-movierecommender-jpzfqzcgj3dsh5ip3aufxv.streamlit.app/)
